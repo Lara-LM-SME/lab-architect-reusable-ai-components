@@ -113,6 +113,4 @@ You should see:
 
 ## Optional Extension
 
-- Create a new file, e.g. `meal_helper.py`.
-- Define a `MEAL_TASKS` dict similar to `ROLE_TASKS`.
-- Reuse the **same** `Planner`, `Memory`, and `Executor` classes to build a meal-planning helper instead of an onboarding helper.
+Think about how you could refactor the reusable helper code to fit a different use case.
