@@ -43,3 +43,6 @@ logs/
 
 # Answer keys
 *ANSWER_KEY*
+
+# PDFs
+*.pdf
